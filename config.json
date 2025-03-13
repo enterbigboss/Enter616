@@ -16,7 +16,7 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "bot_id",
+    "BOTNAME": "botid",
     "PREFIX": "/",
     "ADMINBOT": [
         "100049852290233"
