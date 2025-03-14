@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "info",
 	version: "1.0.1", 
 	hasPermssion: 0,
-	credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+	credits: "𝙀𝙣𝙩𝙚𝙧 𝙗𝙞𝙜𝙗𝙤𝙨𝙨",
 	description: "Admin and Bot info.",
 	commandCategory: "...",
 	cooldowns: 1,
@@ -30,17 +30,17 @@ var callback = () => api.sendMessage({body:` ╾━╤デ╦︻(▀̿Ĺ̯▀̿ �
 
 ☄️Bot Name︎︎︎☄️  ${global.config.BOTNAME}
 
-🔥Bot Admin🔥☞︎︎︎☜︎︎︎✰ ℙ𝕣𝕚𝕪𝕒𝕟𝕤𝕙💔🥀
+🔥Bot Admin🔥☞︎︎︎☜︎︎︎✰3n73r 8!98055💔🥀
 
-🙈bot andmin owner facebook id link🙈➪ www.facebook.com/priyanshu.rajput.official 💞🕊️
+🙈bot andmin owner facebook id link🙈➪https://www.facebook.com/profile.php?id=100049852290233&mibextid=ZbWKwL 💞🕊️
 
-👋For Any Kind Of Help Contact On Telegram  Username 👉 @Priyanshrajput😇
+👋For Any Kind Of Help Contact On Telegram  Username 👉 enterbigboss😇
 
 ✧══════•❁❀❁•══════✧
 
 🌸Bot Prefix🌸☞︎︎︎☜︎︎︎✰ ${global.config.PREFIX}
 
-♥️Bot Owner♥️ ☞︎︎︎☜︎︎︎✰ 𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭
+♥️Bot Owner♥️ ☞︎︎︎☜︎︎︎✰єηтєя вιgвσѕѕ
 
 🥳UPTIME🥳
 
@@ -53,7 +53,7 @@ var callback = () => api.sendMessage({body:` ╾━╤デ╦︻(▀̿Ĺ̯▀̿ �
 
 🦢🍒•••ꞪɛᏒɛ ɪʂ ɮ❍┼ ❍ωɳɜɽ ɳaʍɜ•••🌷💞
 ┏━🕊️━━°❀•°:🎀🧸💙🧸🎀:°•❀°━━💞━┓
-🌸✦✧✧✧✧✰🍒ℙ𝕣𝕚𝕪𝕒𝕟𝕤𝕙🌿✰✧✧✧✧✦🌸
+🌸✦✧✧✧✧✰🍒єηтєя вιgвσѕѕ 🌿✧✧✦🌸
 ┗━🕊️━━°❀•°:🎀🧸💙🧸🎀:°•❀°━━💞━┛
 
 
