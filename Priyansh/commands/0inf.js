@@ -2,7 +2,8 @@ module.exports.config = {
 	name: "info",
 	version: "1.0.1", 
 	hasPermssion: 0,
-	credits: "enter bigboss",
+	credits: "𝙀𝙣𝙩𝙚𝙧 𝙗𝙞𝙜𝙗𝙤𝙨𝙨
+		",
 	description: "Admin and Bot info.",
 	commandCategory: "...",
 	cooldowns: 1,
@@ -30,7 +31,8 @@ var callback = () => api.sendMessage({body:` ╾━╤デ╦︻(▀̿Ĺ̯▀̿ �
 
 ☄️Bot Name︎︎︎☄️  ${global.config.BOTNAME}
 
-🔥Bot Admin🔥☞︎︎︎☜︎︎︎✰ bigboss💔🥀
+🔥Bot Admin🔥☞︎︎︎☜︎︎︎✰ 𝙀𝙣𝙩𝙚𝙧 𝙗𝙞𝙜𝙗𝙤𝙨𝙨
+💔🥀
 
 🙈bot andmin owner facebook id link🙈➪ www.facebook.com/enter.bigboss.official 💞🕊️
 
@@ -40,7 +42,8 @@ var callback = () => api.sendMessage({body:` ╾━╤デ╦︻(▀̿Ĺ̯▀̿ �
 
 🌸Bot Prefix🌸☞︎︎︎☜︎︎︎✰ ${global.config.PREFIX}
 
-♥️Bot Owner♥️ ☞︎︎︎☜︎︎︎✰ enter bigboss
+♥️Bot Owner♥️ ☞︎︎︎☜︎︎︎✰ 𝙀𝙣𝙩𝙚𝙧 𝙗𝙞𝙜𝙗𝙤𝙨𝙨
+
 
 🥳UPTIME🥳
 
@@ -53,7 +56,7 @@ var callback = () => api.sendMessage({body:` ╾━╤デ╦︻(▀̿Ĺ̯▀̿ �
 
 🦢🍒•••ꞪɛᏒɛ ɪʂ ɮ❍┼ ❍ωɳɜɽ ɳaʍɜ•••🌷💞
 ┏━🕊️━━°❀•°:🎀🧸💙🧸🎀:°•❀°━━💞━┓
-🌸✦✧✧✧✧✰🍒bigboss🌿✰✧✧✧✧✦🌸
+🌸✦✧✧✧✧✰🍒𝙗𝙞𝙜𝙗𝙤𝙨𝙨🌿✰✧✧✧✧✦🌸
 ┗━🕊️━━°❀•°:🎀🧸💙🧸🎀:°•❀°━━💞━┛
 
 
