@@ -2,7 +2,8 @@
 	name: "help",
 	version: "1.0.2",
 	hasPermssion: 0,
-	credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+	credits: "𝙀𝙣𝙩𝙚𝙧 𝙗𝙞𝙜𝙗𝙤𝙨𝙨
+		",
 	description: "Beginner's Guide",
 	commandCategory: "system",
 	usages: "[Tên module]",
