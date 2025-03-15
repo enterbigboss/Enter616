@@ -3,7 +3,8 @@ module.exports.config = {
 	name: "admin",
 	version: "1.0.5",
 	hasPermssion: 0,
-	credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+	credits: "𝙀𝙣𝙩𝙚𝙧 𝙗𝙞𝙜𝙗𝙤𝙨𝙨
+		",
 	description: "Admin Config",
 	commandCategory: "Admin",
 	usages: "Admin",
